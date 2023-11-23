@@ -1,2 +1,2 @@
-# CodeClause_internship_projects
+# CodeClause_Java_Development_Intern
 CodeClause Internship Projects
